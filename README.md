@@ -1,8 +1,8 @@
-# 📊 Serverless Analytics with AWS Data Exchange, S3 & Athena
+# 📊 Serverless Data Analytics with AWS Data Exchange, S3 & Athena
 
 <h4 align="center"><em>Unlock data insights with zero infrastructure overhead</em></h4>
 
-Serverless Analytics with AWS Data Exchange, S3 & Athena is a real-world, serverless data analytics walkthrough using core AWS services like **AWS Data Exchange**, **Amazon S3**, and **Amazon Athena**. This project demonstrates how to discover public datasets, subscribe to them, export to S3, and perform powerful SQL-based queries using Athena—all with minimal infrastructure and maximum insight.
+Serverless Data Analytics with AWS Data Exchange, S3 & Athena is a real-world, serverless data analytics walkthrough using core AWS services like **AWS Data Exchange**, **Amazon S3**, and **Amazon Athena**. This project demonstrates how to discover public datasets, subscribe to them, export to S3, and perform powerful SQL-based queries using Athena—all with minimal infrastructure and maximum insight.
 
 ---
 
