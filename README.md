@@ -11,6 +11,12 @@ AWS Data Exchange: Serverless Data Analytics Workflow is a real-world, serverles
 
 ---
 
+## 🧰 AWS Services Used
+
+- **AWS Data Exchange** – for accessing third-party datasets  
+- **Amazon S3** – for secure and scalable object storage  
+- **Amazon Athena** – for running serverless SQL queries  
+
 ## 🌐 Purpose
 
 The primary goal of this project is to:
