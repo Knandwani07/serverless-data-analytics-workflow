@@ -7,7 +7,7 @@ AWS Data Exchange: Serverless Data Analytics Workflow is a real-world, serverles
 > 
 > **Estimated Time to Complete**: 1 Hour
 > 
-> **Project Type**: AWS Serverless Data Pipeline Demo
+> **Project Type**: AWS Serverless Data Analytics Demo
 
 ---
 
