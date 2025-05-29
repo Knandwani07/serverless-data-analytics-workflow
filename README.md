@@ -1,6 +1,6 @@
-# 📊 AWS Data Exchange: Serverless Analytics Workflow
+# 📊 AWS Data Exchange: Serverless Data Analytics Workflow
 
-AWS Data Exchange: Serverless Analytics Workflow is a real-world, serverless data analytics walkthrough using core AWS services like **AWS Data Exchange**, **Amazon S3**, and **Amazon Athena**. This project demonstrates how to discover public datasets, subscribe to them, export to S3, and perform powerful SQL-based queries using Athena, all with minimal infrastructure and maximum insight.
+AWS Data Exchange: Serverless Data Analytics Workflow is a real-world, serverless data analytics walkthrough using core AWS services like **AWS Data Exchange**, **Amazon S3**, and **Amazon Athena**. This project demonstrates how to discover public datasets, subscribe to them, export to S3, and perform powerful SQL-based queries using Athena, all with minimal infrastructure and maximum insight.
 
 ---
 > **Level**: Intermediate
